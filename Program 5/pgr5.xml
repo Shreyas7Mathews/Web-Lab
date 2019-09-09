@@ -1,0 +1,73 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="pgr5.css"?>
+<students>
+<student>
+	<name>
+	C C Dara Thimmaiah
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4VV16CS014
+	</usn>
+	<year>
+	2015
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	daracc23@gmail.com
+	</email>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+</student>
+<student>
+	<name>
+	Bhavan
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4VV16CS013
+	</usn>
+	<year>
+	2015
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	bhavan@gmail.com
+	</email>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+</student>
+<student>
+	<name>
+	AyushothamAshvatha
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4VV16CS012
+	</usn>
+	<year>
+	2015
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	ayush@gmail.com
+	</email>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+</student>
+</students>
